@@ -12,6 +12,7 @@ protocol BackDataPassingProtocol{          //backward 1
 }
 
 class SecondViewController: UIViewController {
+    //var number : Int = 10   //added to show commit changes in Github repo
 
     @IBOutlet weak var dataLabelOnSecondViewController: UILabel!
     
